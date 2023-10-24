@@ -1,0 +1,98 @@
+.container{
+  margin-top: 80px;
+  color: rgb(42, 190, 141);
+  display: flex;
+  justify-content: center;
+}
+.container1{
+  
+  margin-top: 20px;
+}
+.inputbox1{
+margin-left: 90px;
+height: 35px;
+width: 400px;
+}
+.inputbox2{
+  margin-left:50px;
+  height: 35px;
+  width: 400px;
+  }
+.btn0{
+margin-left: 100px;
+height: 35px;
+width: 200px;
+background-color: rgb(42, 190, 141);
+color: white;
+border: none;
+border-radius: 5px;
+}
+.container2{
+  display: flex;
+}
+.heading1{
+  margin-top: 30px;
+  margin-left: 70px;
+  
+}
+
+.status{
+  margin-top: 30px;
+  margin-left: 800px;
+}
+.dropdown{
+  margin-top: 25px;
+  margin-left: 50px;
+
+}
+.btn{
+  background-color: rgb(42, 190, 141);
+  color: white;
+  margin-top: 25px;
+  margin-left: 40px;
+  border-color: aqua;
+}
+.text{
+  background-color:white;
+  color:  rgb(42, 190, 141);
+ 
+}
+
+.btn1{
+  background-color: palevioletred;
+  color: white;
+  margin-bottom:10px;
+  border: none;
+  width: 150px;
+  margin: 10px;
+  
+}
+.btn2{
+  background-color: rgb(29, 119, 89);
+  color: white;
+  width: 80px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 270px;
+ 
+}
+.btn3{
+  background-color: brown;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 80px;
+  margin-left: 260px;
+  margin-top: 10px;
+  
+}
+.card{
+  background-color: aquamarine;
+  margin: 10px;
+  overflow: hidden;
+}
+.buttonsection{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
